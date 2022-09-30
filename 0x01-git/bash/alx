@@ -1,2 +1,4 @@
 #!/bin/bash
- ALX
+ ALX School”  >>alx
+
+root@42492e8b31ca:/alx-pre_course/0x01-git/bash# echo  ALX School”
